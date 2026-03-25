@@ -3,7 +3,8 @@
 A feature-rich, multi-page e-commerce landing page clone of the Myntra platform. This project goes beyond UI by implementing core shopping cart logic using **Vanilla JavaScript**.
 
 ## 🚀 Live Demo
-[Insert your Vercel or GitHub Pages link here]
+https://sanjanasinha-1306.github.io/Myntra-Functional_Clone
+
 
 ## 🎯 Key Functionalities
 * **Product Catalog:** Interactive display of items with dynamic styling.
