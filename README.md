@@ -3,7 +3,7 @@
 A feature-rich, multi-page e-commerce landing page clone of the Myntra platform. This project goes beyond UI by implementing core shopping cart logic using **Vanilla JavaScript**.
 
 ## 🚀 Live Demo
-https://sanjanasinha-1306.github.io/Myntra-Functional_Clone
+https://sanjanasinha-1306.github.io/myntra-js-clone/
 
 
 ## 🎯 Key Functionalities
